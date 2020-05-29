@@ -1,0 +1,6 @@
+schematics i2c-dmx.sch
+output-name ../pcb/i2c-dmx
+skip-m4
+elements-dir ../../ise-footprints
+
+
